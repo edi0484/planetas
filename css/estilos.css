@@ -1,0 +1,18 @@
+body
+{
+    padding: 10px;
+    margin: 40px;
+    font-size: 24px ;
+    font-family: helvetica;
+    background-image: url(https://c4.wallpaperflare.com/wallpaper/946/632/921/espacio-estrellas-naturaleza-planetas-wallpaper-preview.jpgk);
+    background-repeat: no-repeat;
+    background-size: auto;
+    color:white;
+}
+
+    nav
+    {
+        background-color: white;
+        padding:0px;
+        color:black;
+    }
